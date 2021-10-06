@@ -183,7 +183,7 @@ a, a:active, a:focus, a:active {
 --*/
 .navigation {
   position: sticky;
-  top: 45px;
+  top: 85px;
 }
 
 nav {
