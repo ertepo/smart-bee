@@ -36,7 +36,7 @@ blog:
 ################# food Menu ################
 pricing:
   enable : true
-  title : "Il nostro  <span>MENU</span>"
+  title : "Il nostro  <span>MENÙ</span>"
   description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
   subtitle : "FEATURED ON THE WEEK"
   pricing_item:
