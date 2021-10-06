@@ -66,7 +66,7 @@ URL = "js/main.js"
   socialTitle = "Follow <span>US</span>"
 
     [[params.footer.contactItem]]
-    title = "Telephone"
+    title = "Telefono"
     icon = "fa fa-phone"
     content = "016742 323313"
 
