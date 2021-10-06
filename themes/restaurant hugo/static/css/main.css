@@ -188,7 +188,7 @@ a, a:active, a:focus, a:active {
 
 nav {
   z-index: 9;
-  width: 50%;
+  width: 100%;
 }
 
 nav .block {
