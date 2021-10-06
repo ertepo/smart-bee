@@ -125,7 +125,7 @@ URL = "about-us"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
+name = "BlogGO"
 URL = "blog"
 weight = 3
 
